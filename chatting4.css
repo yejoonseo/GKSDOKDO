@@ -1,0 +1,12 @@
+article{
+    position: relative;
+    background-color:bisque;
+    width: 530px;
+    height: 4820px;
+    border-radius: 8px;
+    padding: 10px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}

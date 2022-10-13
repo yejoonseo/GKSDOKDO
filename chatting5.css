@@ -1,0 +1,18 @@
+.picture{
+    position: relative;
+    background-color:bisque;
+    width: 550px;
+    height: 6620px;
+    border-radius: 8px;
+    padding: 10px;
+    margin:auto;
+}
+h1{
+    text-align: center;
+}
+article{
+    background: url(5조.jpg);
+}
+
+
+
